@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Docs"
+  short_description: "Maintain docs and feature lifecycle archives"
+  default_prompt: "Use $update-docs to mark an active feature as completed, cancelled, or paused."
